@@ -12,5 +12,5 @@
  ![](https://camo.githubusercontent.com/e4741a61e4a735372e2f5090ed9ea08743cf380b/68747470733a2f2f68656c702e6769746875622e636f6d2f6173736574732f696d616765732f68656c702f6973737565732f6e65775f6973737565735f627574746f6e2e706e67)
  
  3. Enter your question
- 4. Provide the code generating the problem in the _Leave a comment_ box
+ 4. In the _Leave a comment_ box, provide the code generating the problem 
  5. Click `Submit new issue`
