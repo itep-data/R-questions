@@ -14,3 +14,4 @@
  3. Enter your question
  4. In the _Leave a comment_ box, provide the code generating the problem 
  5. Click `Submit new issue`
+ 6. Congrats! :clap:
