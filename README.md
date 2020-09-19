@@ -1,5 +1,5 @@
 # R-questions
- :question: :hand: :two_women_holding_hands: Ask your R questions here
+ :question: :hand: Ask your R questions here
  
  ## To ask a new question
  
